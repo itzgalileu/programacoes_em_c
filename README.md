@@ -1,1 +1,1 @@
-# programacoes_em_c
+# programacoes_em_c_desenvolvidadas_na_sala_de_aula
